@@ -11,18 +11,18 @@ const projectsData = [
         description: "A website where users are able to go through a catalog of energy drinks and view detailed information about them, as well as create their own posts for people to see and interact with.",
         image: "/images/projects/Energy.webp",
         tag: ["All", "Web"],
-        gitUrl: "/",
+        gitUrl: "https://github.com/ilyastahari/Energyze",
         previewUrl: "/",
       },
 
     {
     id: 2,
-    title: "Recipe Maker",
-    description: "A website which makes it easier for college students to post recipes and find easy recipes to make.",
-    image: "/images/projects/Recipe.jpg",
+    title: "To-Do App",
+    description: "An app which makes it easier for the user to keep track of tasks in the form of a to-do list.",
+    image: "/images/projects/To-Do.jpeg",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/ilyastahari/to-do-list",
+    previewUrl: "https://main--ilyas-to-do.netlify.app/",
   },
   
   {
@@ -31,7 +31,7 @@ const projectsData = [
     description: "A company management site where employees are able to create accounts, join teams, add projects, and add user stories.",
     image: "/images/projects/Company.jpg",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/ilyastahari/Management-Site",
     previewUrl: "/",
   },
 ];

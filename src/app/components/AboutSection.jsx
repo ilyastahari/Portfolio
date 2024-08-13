@@ -12,6 +12,7 @@ const TAB_DATA = [
         <li>Next.js</li>
         <li>React</li>
         <li>MERN Stack</li>
+        <li>Angular</li>
       </ul>
     ),
   },
